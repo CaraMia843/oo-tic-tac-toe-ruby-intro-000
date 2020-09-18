@@ -53,6 +53,6 @@ WIN_COMBINATIONS = [
       end
     end
     counter
-  end
+  
   
 end
