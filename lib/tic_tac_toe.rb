@@ -31,6 +31,8 @@ WIN_COMBINATIONS = [
     @board[index] = player
   end
     
-  def
+  def position_taken?
+    
+  end
   
 end
