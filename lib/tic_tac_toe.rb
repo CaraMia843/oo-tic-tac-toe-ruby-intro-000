@@ -47,7 +47,7 @@ WIN_COMBINATIONS = [
   
   def turn_count
     counter = 0
-    board.each do |spaces|
+    @board.each do |spaces|
       if spaces == "X" || spaces == "O"
          counter += 1
       end
