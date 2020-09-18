@@ -28,7 +28,8 @@ WIN_COMBINATIONS = [
   end
   
   def move(index, token)
-    @board = 
+    @board = [index] = token
+  end
     
   end
 end
