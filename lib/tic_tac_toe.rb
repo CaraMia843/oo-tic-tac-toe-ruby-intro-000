@@ -27,4 +27,7 @@ WIN_COMBINATIONS = [
     user_input.to_i - 1
   end
   
+  def move(board, )
+    
+  end
 end
