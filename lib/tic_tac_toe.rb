@@ -69,6 +69,7 @@ WIN_COMBINATIONS = [
     else
       turn(board)
     end
+  end
   
-end
+  
 end
