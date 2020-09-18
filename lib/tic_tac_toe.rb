@@ -52,7 +52,8 @@ WIN_COMBINATIONS = [
          counter += 1
       end
     end
-    counter
+    return counter
+  end
   
   
 end
