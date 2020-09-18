@@ -31,5 +31,6 @@ WIN_COMBINATIONS = [
     @board[index] = player
   end
     
+  def
   
 end
