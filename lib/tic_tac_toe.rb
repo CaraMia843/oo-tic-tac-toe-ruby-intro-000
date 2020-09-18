@@ -43,7 +43,8 @@ WIN_COMBINATIONS = [
     if index.between?(0, 8) && !position_taken?(index)
       return true 
     end
+  end
   
-end
+  
   
 end
